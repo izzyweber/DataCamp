@@ -1,10 +1,10 @@
-# Track Proposal: Accounting Fundementals with Python
+# Track Proposal: Accounting Fundementals in Python
 Data analysis has emerged as accounting's most desired skill. Whether you are preparing for the CPA exam's newly introduced data mangement and analytics sections or simply want to harness the power of data analytics to complement your accounting knowledge, this track is for you.
 
 ## Track Learning Objectives:
   Be the end of this course, you'll be able to:
    - Apply the basic building blocks of Python and NumPy to organize and manipulate accounting data
-   - Reframe traditional spreadsheet tasks for execution in Python with the popular Pandas library and Jupyter Notebooks
+   - Reframe traditional spreadsheet tasks for execution in Python with the popular Pandas library matplotlib, and Jupyter Notebooks
    - Construct functions to source accounting data from Excel and CSV files as well as APIs using the OpenPyXL, csv, and requests modules.
    - Evaluate accounting processes and internal controls for automation opportunities -- then leverage os.path, PyPDF2, Python-Docx, and PyAutoGi libraries to write automation scripts
    - Investigate revenue and expense drivers for use in budgeting decisions using scikit-learn, Python's accessible machine learning library
@@ -23,7 +23,7 @@ Data analysis has emerged as accounting's most desired skill. Whether you are pr
 
   Learning Objectives:
   By the end of this course, students will be able to...
-  - Organize and present Python code with Jupyter Notebooks
+  - Execute and present Python code with Jupyter Notebooks
   - Create, read, copy, and update data in Pandas DataFrames and Series objects
   - Clean, manipulate and summarize data in Pandas by merging, grouping, filtering, and generating pivot tables
 
