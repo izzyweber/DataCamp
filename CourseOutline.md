@@ -17,7 +17,7 @@
 
 ## Chapter 2: Introduction to Working with Data in Pandas
 ### Lesson 2.1: Pandas Data Structures
-- Learner will be able to create Pandas Series and DataFrames and describe thier contents using utility methods and attributes
+- Learner will be able to create Pandas Series and DataFrames and describe their contents using utility methods and attributes
 - Some functions introduced/used: .head(), .shape(), .info(), .describe()
 ### Lesson 2.2: Data Selection
 - Learner will be able to select and filter data with data slicing and Boolean indexing
