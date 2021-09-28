@@ -1,0 +1,86 @@
+acct_num,acct_type,acct_name,acct_balance
+1000,Current Assets,Accounts Receivable - 30 Days,1111
+1002,Current Assets,Short Term Investments,1226
+1004,Current Assets,Inventory,1785
+1006,Current Assets,Accounts Receviable - 90 Days,1800
+1008,Current Assets,High Interest Cash Account,786
+1010,Current Assets,Main Street Bank Cash Account,1380
+1012,Current Assets,Money Market Account,326
+1014,Current Assets,Office Supplies,374
+1016,Current Assets,Inventory,1215
+1018,Current Assets,Accounts Receviable,1634
+1020,Current Assets,High Street Bank Cash Account,305
+1022,Long Term Assets,Heavy Equipment,1227
+1024,Other Expense,Gardening Expense,1101
+1026,Long Term Assets,Office Furniture,1102
+1028,Long Term Assets,Heavy Trucks,1634
+1030,Long Term Assets,Light Equipment,1558
+1032,Long Term Assets,Show Room Property,681
+1034,Long Term Assets,Factory in Renton,943
+1036,Long Term Assets,Factory in Lexington,710
+1038,Long Term Assets,Machinery,1204
+1040,Long Term Assets,Computers,546
+1042,Long Term Assets,Laptops,1392
+1044,Long Term Assets,Goodwill,1325
+1046,Long Term Assets,Land in Memphis,1653
+2000,Current Liabilities,Tax Payable,6155
+2002,Current Liabilities, Sales Tax Payable,1101
+2004,Current Liabilities, Federal Withholding Taxes Payable,654
+2006,Current Liabilities, FICA taxes payable,722
+2008,Current Liabilities, State Withholding Taxes Payable,646
+2010,Current Liabilities, Unemployment Taxes Payable,1000
+2012,Current Liabilities, Accrued Wages,4371
+2014,Current Liabilities, Unearned Revenue,663
+2016,Current Liabilities, Accrued Income Taxes,305
+2018,Current Liabilities, Credit Card Payable,771
+2100,Long Term Liabilities, Bank Loan Payable,8995
+2102,Long Term Liabilities, Notes Payable,1785
+3000,Shareholder's Equity, Owner's Equity,522
+3002,Shareholder's Equity, Owner's Drawing Account,4500
+3004,Shareholder's Equity, Common Stock,1102
+3006,Shareholder's Equity, Additional Paid in Capital,640
+3008,Shareholder's Equity, Preferred Stock,5997
+3010,Shareholder's Equity, Retained Earnings,802
+4000,Revenue, Sales,9759
+4002,Revenue, Revenues,768
+4004,Revenue, Sales Returns and Allowances,350
+4006,Revenue, Investment Income,4078
+4008,Revenue, Gain (Loss) on  Sale of Assets,357
+5000,Cost of Goods Sold, Purchases,910
+5002,Cost of Goods Sold, Freight,740
+5004,Cost of Goods Sold, Purchase Returns and Allowances,356
+5006,Cost of Goods Sold,Cost of Goods Sold -  Materials,925
+5008,Cost of Goods Sold,Cost of Goods Sold -  Labor,984
+5010,Cost of Goods Sold,Cost of Goods Sold -  Other Direct Expenses,840
+5012,Cost of Goods Sold,Cost of Goods Sold -  Other Indirect Expenses,599
+6000,Other Expense, Advertising,972
+6002,Other Expense, Amortization,537
+6004,Other Expense, Bad Debt Expense,960
+6006,Other Expense, Bank Charges,786
+6008,Other Expense, Charitable Contributions,522
+6010,Other Expense, Commissions Other Expense,821
+6012,Other Expense, Contract Labor,887
+6014,Other Expense, Credit Card Fees Other Expense,646
+6016,Other Expense, Delivery Other Expense,939
+6018,Other Expense, Depreciation,654
+6020,Other Expense, Dues and Subscriptions,518
+6022,Other Expense, Entertainment,874
+6024,Other Expense, Insurance,926
+6026,Other Expense, Interest Other Expense,722
+6028,Other Expense, Maintenance,768
+6030,Other Expense, Miscellaneous,716
+6032,Other Expense, Office Other Expense,771
+6034,Other Expense, Operating Supplies,857
+6036,Other Expense, Payroll Taxes,757
+6038,Other Expense, Permits and Licenses,692
+6040,Other Expense, Postage,721
+6042,Other Expense, Professional Fees,848
+6044,Other Expense, Property Taxes,802
+6046,Other Expense, Rent,846
+6048,Other Expense, Repairs,710
+6050,Other Expense, Telephone,969
+6052,Other Expense, Travel,640
+6054,Other Expense, Utilities,681
+6056,Other Expense, Vehicle Other Expenses,646
+6058,Other Expense, Wages,663
+6060,Other Expense, Income taxes,546
